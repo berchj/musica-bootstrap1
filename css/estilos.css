@@ -1,0 +1,71 @@
+body{
+  background:grey;
+  font-family: courier;
+}
+
+.logo{
+  width: 60px;
+  height:60px;
+  border-radius: 30px;
+  margin: 5px;
+}
+
+nav{
+  color: #FFFFFF;
+  font-family:courier;
+  font-size:2.5vw;
+  font-weight:bold;
+  
+}
+
+.redes img{
+  width: 50px;
+  height: 50px;
+  right: 50px;
+  margin-top:7px; 
+  }
+
+.botones a{
+  color: #000000;
+  margin: 10px;
+  height: 10px;
+  width: 10px;
+  font-size: 1vw;
+  font-weight: bold;
+
+}
+
+.botones:hover{
+  text-decoration: none;
+}
+
+
+.contenido img{
+  width: 100%;
+  height:250px;
+
+}
+
+.lista{
+  border:5px dashed black;
+}
+
+
+.lista a{
+  font-family:courier;
+  color: #000000;
+  font-size:20px;
+  font-weight: bold;
+
+}
+
+#perfil{
+  width: 50px;
+  height:50px;
+  border-radius: 30px;
+}
+
+.comentarios p{
+  border:1px solid black;
+  padding: 5px;
+  
